@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v900rai&show_icons=true&locale=en" alt="v900rai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v900rai&" alt="v900rai" /></p>
+![](https://leetcard.jacoblin.cool/v900rai?ext=heatmap)
