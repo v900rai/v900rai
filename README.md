@@ -1,6 +1,7 @@
 <h1 align="center">  नमस्ते (Namaste), Hi 👋, I'm Vishal Rai</h1>
 
 <h3 align="center">A passionate Software Engineer developer from India</h3>
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v900rai&label=Profile%20views&color=0e75b6&style=flat" alt="v900rai" /> </p>
 
