@@ -1,4 +1,4 @@
-<h1 align="center"> ## नमस्ते (Namaste), Hi 👋, I'm Vishal Rai</h1>
+<h1 align="center">  नमस्ते (Namaste), Hi 👋, I'm Vishal Rai</h1>
 
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
