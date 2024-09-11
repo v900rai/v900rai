@@ -6,6 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v900rai&label=Profile%20views&color=0e75b6&style=flat" alt="v900rai" /> </p>
 
+
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/manvi-tyagi-108464147/"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ManviTyagi9"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@manvityagi770"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/9144345/fight-club"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/stackoverflow.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
 - 📫 How to reach me **vishalrai10797@gmail.com**
