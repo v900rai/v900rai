@@ -35,7 +35,7 @@ Profile on Coding Platforms:
 
  
 
-      </p>
+     
 <hr></hr>
 
 
