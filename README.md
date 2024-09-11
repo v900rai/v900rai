@@ -3,8 +3,7 @@
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
 - I am a fun-loving, goal-oriented, optimistic personality...
-- I love building applications & discussing new product ideas...
-- Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life...
+
 
  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 
