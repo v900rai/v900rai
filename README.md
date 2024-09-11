@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v900rai&" alt="v900rai" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v900rai&langs_count=10"> </p>
 
 
 
