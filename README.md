@@ -1,10 +1,11 @@
 <h1 align="center">  नमस्ते (Namaste), Hi 👋, I'm Vishal Rai</h1>
 
 <h3 align="center">A passionate Software Engineer developer from India</h3>
- I am a fun-loving, goal-oriented, optimistic personality.
-- I love building applications & discussing new product ideas.
-- Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
- 
+
+  I am a fun-loving, goal-oriented, optimistic personality...
+- I love building applications & discussing new product ideas...
+- Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life...
+
  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v900rai&label=Profile%20views&color=0e75b6&style=flat" alt="v900rai" /> </p>
