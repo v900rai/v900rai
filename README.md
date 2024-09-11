@@ -9,6 +9,8 @@
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
 - 📫 How to reach me **vishalrai10797@gmail.com**
+- - 📫 How to reach me on LinkedIn:
+      <a href="https://www.linkedin.com/in/vishal-rai-810ab5174//" rel="nofollow">LinkedIn Profile</a>  
 
 - ⚡ Fun fact **I am funny😎**
 
