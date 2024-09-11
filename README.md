@@ -1,6 +1,9 @@
 <h1 align="center">  नमस्ते (Namaste), Hi 👋, I'm Vishal Rai</h1>
 
 <h3 align="center">A passionate Software Engineer developer from India</h3>
+ I am a fun-loving, goal-oriented, optimistic personality.
+- I love building applications & discussing new product ideas.
+- Ideas + Innovation + Technology + Leadership + Commitment are my tag words for life.
  
  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 
@@ -8,12 +11,6 @@
 
 
 
-<p align='center'>
-<a href="https://www.linkedin.com/in/vishal-rai-810ab5174//"><img height="30" src="https://github.com/v900rai/v900rai/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ManviTyagi9"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@manvityagi770"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/9144345/fight-club"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/stackoverflow.png?raw=true"></a>&nbsp;&nbsp;
-</p>
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
