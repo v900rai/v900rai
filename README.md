@@ -9,7 +9,7 @@
 
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/manvi-tyagi-108464147/"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/vishal-rai-810ab5174//"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ManviTyagi9"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@manvityagi770"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/9144345/fight-club"><img height="30" src="https://github.com/Manvityagi/ManviTyagi/blob/main/assets/stackoverflow.png?raw=true"></a>&nbsp;&nbsp;
