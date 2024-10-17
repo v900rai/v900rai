@@ -45,19 +45,6 @@ Profile on Coding Platforms:
 
 
 
-<hr></hr>
-
-Profile on Coding Platforms:
-<br></br>
-<p align="center">
-<a href="https://leetcode.com/u/RaiVishalRai//" rel="nofollow">Leetcode</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/user/vishalrai10797/" rel="nofollow">geeksforgeeks</a>🏆
-
- 
-
-     
-<hr></hr>
-
 
 
 
