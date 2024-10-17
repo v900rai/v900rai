@@ -36,6 +36,20 @@
 Profile on Coding Platforms:
 <br></br>
 <p align="center">
+<a href="https://leetcode.com/u/RaiVishalRai/" rel="nofollow">Leetcode</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/mkhan31995" rel="nofollow">Hackerrank</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/mazhar_mik" rel="nofollow">InterViewBit</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerearth.com/@mkhan31995" rel="nofollow">Hackerearth</a>🏆
+      </p>
+<hr></hr>
+
+
+
+<hr></hr>
+
+Profile on Coding Platforms:
+<br></br>
+<p align="center">
 <a href="https://leetcode.com/u/RaiVishalRai//" rel="nofollow">Leetcode</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/user/vishalrai10797/" rel="nofollow">geeksforgeeks</a>🏆
 
