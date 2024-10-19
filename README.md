@@ -39,7 +39,9 @@ Profile on Coding Platforms:
 <a href="https://leetcode.com/u/RaiVishalRai/" rel="nofollow">Leetcode</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/profile/vishalrai10797" rel="nofollow">Hackerrank</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/user/vishalrai10797/" rel="nofollow">Geeksforgeeks</a>🏆
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://takeuforward.org/profile/vishalrai0007" rel="nofollow">takeuforward</a>🏆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://takeuforward.org/profile/vishalrai0007" rel="nofollow">Takeuforward</a>🏆
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/rairaivishalrai/" rel="nofollow">Interviewbit</a>🏆
+      
       </p>
 <hr></hr>
 
