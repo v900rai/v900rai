@@ -42,8 +42,14 @@ Profile on Coding Platforms:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://takeuforward.org/profile/vishalrai0007" rel="nofollow">Takeuforward</a>🏆
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.interviewbit.com/profile/rairaivishalrai/" rel="nofollow">Interviewbit</a>🏆
       
-      </p>
+      
 <hr></hr>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
